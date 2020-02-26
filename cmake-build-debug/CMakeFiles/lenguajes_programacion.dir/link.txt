@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/lenguajes_programacion.dir/Tema_1/CalculoSuma.cpp.o  -o lenguajes_programacion 
