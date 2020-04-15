@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/3_ondas/main.cpp
+vector
+-
+cmath
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+

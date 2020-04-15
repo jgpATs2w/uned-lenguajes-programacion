@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lenguajes_programacion.dir/Tema_1/CalculoSuma.cpp.o"
+  "CMakeFiles/lenguajes_programacion.dir/Tema_12/testKS.cpp.o"
   "lenguajes_programacion"
   "lenguajes_programacion.pdb"
 )

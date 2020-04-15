@@ -1,0 +1,3 @@
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/2_distancia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/2_distancia/cmake-build-debug/CMakeFiles/2_distancia.dir
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/2_distancia/cmake-build-debug/CMakeFiles/edit_cache.dir

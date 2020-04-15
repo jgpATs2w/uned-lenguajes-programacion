@@ -1,4 +1,4 @@
-# Install script for directory: /home/eleuteron/Documents/uned/2s/lenguajes-programacion
+# Install script for directory: /home/garciaja/Documents/uned/19_20/2s/leng_prog/uned-lenguajes-programacion
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/eleuteron/Documents/uned/2s/lenguajes-programacion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/garciaja/Documents/uned/19_20/2s/leng_prog/uned-lenguajes-programacion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

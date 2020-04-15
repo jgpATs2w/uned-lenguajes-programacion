@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/luz.dir/main.cpp.o  -o luz 

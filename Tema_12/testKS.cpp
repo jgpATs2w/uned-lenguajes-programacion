@@ -5,12 +5,12 @@
 #include<string>
 #include<cmath>
 
-const std::string nombreFich = "datosKS.txt";
+const std::string nombre    Fich = "datosKS.txt";
 const double rangeInf = 0;
 const double rangeSup = 10000;
 
 double KStest(std::list<double>& datos, double rangoInf, double rangoSup) {
-	// Normalización de los datos al rango [rangoInf,rangoSup]
+	// Normalizaciï¿½n de los datos al rango [rangoInf,rangoSup]
 	std::list<double> datosN;
 	double rango = rangoSup - rangoInf;
 	std::list<double>::iterator p = datos.begin();
@@ -18,7 +18,7 @@ double KStest(std::list<double>& datos, double rangoInf, double rangoSup) {
 		datosN.push_back( ((*p)-rangoInf)/rango );
 		p++;
 	}		
-	// Ordenación de la lista
+	// Ordenaciï¿½n de la lista
 	datosN.sort();
 	// Algoritmo K-S
 	double D = 0;
@@ -55,7 +55,7 @@ int main() {
 		return 1;
 	}
 	fich_in.close();
-	// Invocación a la función que realiza el test K-S
+	// Invocaciï¿½n a la funciï¿½n que realiza el test K-S
 	std::cout << "Resultado del test K-S: " <<
 		KStest(listaDatos,rangeInf,rangeSup);
 	return 0;

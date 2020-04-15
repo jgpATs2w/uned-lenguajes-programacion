@@ -1,0 +1,3 @@
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/4_polinomios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/4_polinomios/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/trabajo/4_polinomios/cmake-build-debug/CMakeFiles/4_polinomios.dir

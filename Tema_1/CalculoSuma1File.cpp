@@ -24,7 +24,7 @@ int main() //Funcion especial con el identificador de main
   return 0;
 }
 
-//Definición de la funcion suma
+//Definicion de la funcion suma
 double suma(double x1, double y1)
 { //variable local
   double result;

@@ -4,14 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/eleuteron/Documents/uned/2s/lenguajes-programacion/Tema_1/CalculoSuma.cpp" "/home/eleuteron/Documents/uned/2s/lenguajes-programacion/cmake-build-debug/CMakeFiles/lenguajes_programacion.dir/Tema_1/CalculoSuma.cpp.o"
+  "/home/garciaja/Documents/uned/19_20/2s/leng_prog/uned-lenguajes-programacion/Tema_12/testKS.cpp" "/home/garciaja/Documents/uned/19_20/2s/leng_prog/uned-lenguajes-programacion/cmake-build-debug/CMakeFiles/lenguajes_programacion.dir/Tema_12/testKS.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../Tema_1"
-  "../Tema_10"
+  "../Tema_12"
   )
 
 # Targets to which this target links.
