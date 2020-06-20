@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Tema_1/CalculoSuma1File.cpp" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Tema_14/algContar1.cpp" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/Tema_14/movBrowniano.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tema_14_algoritmos_c++/algContar1.cpp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Tema_14_algoritmos_c++/movBrowniano.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tema_1_fundamentos/CalculoSuma1File.cpp" charset="UTF-8" />
   </component>
 </project>

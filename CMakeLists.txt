@@ -3,7 +3,5 @@ project(lenguajes_programacion)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories(Tema_12)
-
 add_executable(lenguajes_programacion
-        Tema_12/testKS.cpp)
+        examenes/jun18_sem1_ej4.cpp)
