@@ -1,4 +1,3 @@
-// ackerman.cpp
 #include <iostream>
 
 int Ackermann (int n, int m);

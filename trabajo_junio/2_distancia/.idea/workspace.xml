@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="2_distancia" targetName="2_distancia" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="511905de-a0f6-47e7-a3c2-a448373ab780" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../examenes/datos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/examen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun17_sem1_ej3_vectores.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun17_sem1_ej4_sucesion_thue-morse.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun17_sem1_ej5_mapa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun17_sem2_conjetura_collaz.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun18_sem1_ej5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun18_sem2_ej2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun18_sem2_ej4_newton_roots.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun19_sem2_ej4_manhattan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examenes/jun19_sem2_ej5_probabilidad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_10_subprogramas_c++/areaTriangulo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_10_subprogramas_c++/areaTriangulo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_10_subprogramas_c++/paramPuntFunc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_10_subprogramas_c++/paramPuntFunc.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_10_subprogramas_c++/puntFunc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_10_subprogramas_c++/puntFunc.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_12_estructuras_datos_c++/busquedaPatronADN.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_12_estructuras_datos_c++/busquedaPatronADN.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_14_algoritmos_c++/algContar1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_14_algoritmos_c++/algContar1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/arrayMemDin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/arrayMemDin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/operPunteros1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/operPunteros1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/punteros1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/punteros1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/punteros2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/punteros2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/punteros3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_6_asignaciones_expresiones/punteros3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_9_subprogramas/ackermann.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_9_subprogramas/ackermann.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema_9_subprogramas/potencia.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema_9_subprogramas/potencia.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examenes/jun18_sem1_ej4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../examenes/jun18_sem1_ej4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/2_distancia" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2_distancia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/2_distancia.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2_distancia.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2_distancia.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Yx4EEWuNpzu8gcVS6Nu82Odn1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="2_distancia" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_distancia" TARGET_NAME="2_distancia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_distancia" RUN_TARGET_NAME="2_distancia">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511905de-a0f6-47e7-a3c2-a448373ab780" name="Default Changelist" comment="" />
+      <created>1583870798001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583870798001</updated>
+      <workItem from="1583870799342" duration="6964000" />
+      <workItem from="1593520170675" duration="690000" />
+      <workItem from="1594992555157" duration="479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="311" key="GridCell.Tab.0.bottom" timestamp="1593520860190">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860190" />
+    <state width="1874" height="311" key="GridCell.Tab.0.center" timestamp="1593520860190">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.0.center/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860190" />
+    <state width="1874" height="311" key="GridCell.Tab.0.left" timestamp="1593520860190">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.0.left/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860190" />
+    <state width="1874" height="311" key="GridCell.Tab.0.right" timestamp="1593520860190">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.0.right/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860190" />
+    <state width="1874" height="311" key="GridCell.Tab.1.bottom" timestamp="1593520860191">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.1.bottom/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860191" />
+    <state width="1874" height="311" key="GridCell.Tab.1.center" timestamp="1593520860191">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.1.center/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860191" />
+    <state width="1874" height="311" key="GridCell.Tab.1.left" timestamp="1593520860191">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.1.left/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860191" />
+    <state width="1874" height="311" key="GridCell.Tab.1.right" timestamp="1593520860191">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.1.right/0.0.1920.1047/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593520860191" />
+  </component>
+</project>

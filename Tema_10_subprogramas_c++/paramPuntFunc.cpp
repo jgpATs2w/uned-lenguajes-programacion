@@ -26,9 +26,9 @@ double f2(double t) {
 }
 
 int main() {
-	// Puntero a función
+	// o a funciï¿½n
 	double (*pfunc)(double);
-	// Evaluación de f1 
+	// Evaluaciï¿½n de f1 
 	double t0 = 0, h = 0.1;
 	int nSteps = 10;
 	pfunc = f1;
@@ -37,7 +37,7 @@ int main() {
 	for (int i=0; i<xf1.size(); i++)  
 		std::cout << "t = " << t0+i*h << 
 			"\tf1(t) = " << xf1[i] << std::endl;
-	// Evaluación de f2 
+	// Evaluaciï¿½n de f2 
 	pfunc = f2;
 	t0 = 0.5;
 	std::vector<double> xf2 = evalua(pfunc,t0,h,nSteps);

@@ -36,14 +36,14 @@ PosXY inicialPosAleat(PosXY pos) {
 	return pos;
 }
 
-// Función para simular el movimiento Browniano
+// Funcion para simular el movimiento Browniano
 PosXY movBrowniano(PosXY pos) {
 	double amp  = v_max*(double)rand()/RAND_MAX;
 	double beta = 2*pi*(double)rand()/RAND_MAX;
-	// Nueva posición en ausencia de rebote
+	// Nueva posiciï¿½n en ausencia de rebote
 	pos.x += amp*cos(beta); 
 	pos.y += amp*sin(beta);
-	// Corrección en caso de rebote
+	// Correcciï¿½n en caso de rebote
 	if ( pos.x < 0 ) pos.x = -pos.x;
 	if ( pos.y < 0 ) pos.y = -pos.y;
 	if ( pos.x > 1 ) pos.x = 2-pos.x;
@@ -52,7 +52,7 @@ PosXY movBrowniano(PosXY pos) {
 }
 
 int main() {
-	// Selección condición inicial
+	// Selecciï¿½n condiciï¿½n inicial
 	std::cout << "Posibles condiciones iniciales:\n" 
 				"1. Particulas sobre la linea x = 0\n" 
 				"2. Particulas sobre la linea x = 0.5\n" 
@@ -60,9 +60,9 @@ int main() {
 				"Escoja la condicion inicial:";
 	char M_ini;
 	std::cin >> M_ini;
-	// Declaración del vector de posiciones
+	// Declaraciï¿½n del vector de posiciones
 	std::vector<PosXY> particulas(Nparticulas);
-	// Inicialización
+	// Inicializaciï¿½n
 	switch (M_ini) {
 	case '1':   
 		transform(particulas.begin(),particulas.end(),

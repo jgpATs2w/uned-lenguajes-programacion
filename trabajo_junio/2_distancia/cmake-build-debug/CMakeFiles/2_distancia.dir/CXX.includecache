@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/garciaja/Documents/uned/19_20/2s/leng_prog/uned-lenguajes-programacion/trabajo/2_distancia/main.cpp
+iostream
+-
+math.h
+-
+fstream
+-
+list
+-
+string
+-
+vector
+-
+sstream
+-
+

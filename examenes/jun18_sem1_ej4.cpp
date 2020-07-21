@@ -4,14 +4,18 @@
 #include "sstream"
 #include <algorithm>
 
-int n;
 bool checkNonrepeated(unsigned int n){
     unsigned int n2 = n*n;
     std::string nString;
-    nString = n2 << n2 * n;
-    for (int i = 0; i < 9; ++i) {
-        size_t ocurrences = std::count(nString.begin(), nString.end(), i);
-        if(ocurrences != 1){
+    std::stringstream stringstream;
+    stringstream << n2 << n2 * n;
+    nString = stringstream.str();
+
+    for (int j = 0; j <= 9; j++) {
+        std::stringstream stringstream1;
+        stringstream1 << j;
+        int pos = nString.find(stringstream1.str());
+        if(pos < 0){
             return false;
         }
     }
@@ -19,9 +23,15 @@ bool checkNonrepeated(unsigned int n){
 }
 
 int main () {
-    for (unsigned int i = 1; i < 100000; ++i) {
-        if(checkNonrepeated(n)){
-            std::cout << n << std::endl;
+    if(checkNonrepeated(19)){
+        return 1;
+    }
+    if(!checkNonrepeated(69)){
+        return 1;
+    }
+    for (unsigned int i = 1; i < 1000; ++i) {
+        if(checkNonrepeated(i)){
+            std::cout << i << std::endl;
         }
     }
     return 0;

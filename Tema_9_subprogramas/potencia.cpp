@@ -1,4 +1,3 @@
-// potencia.cpp
 #include <iostream>
 
 double potencia (double x, int n)

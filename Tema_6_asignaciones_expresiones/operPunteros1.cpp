@@ -1,4 +1,4 @@
-//operPunteros1.cpp
+//opers1.cpp
  #include <iostream>
 int main()
 {

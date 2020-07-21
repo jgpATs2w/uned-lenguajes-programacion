@@ -1,4 +1,3 @@
-// Fichero: busquedaPatronADN.cpp
 #include<iostream>
 #include<string>
 #include<queue>
@@ -8,11 +7,11 @@ const std::string nombreFich = "genetic.txt";
 
 int main()
 {
-	// Entrada del patrón a buscar
+	// Entrada del patrï¿½n a buscar
 	std::string strPatron;
 	std::cout << "Introduzca la secuencia a buscar: ";
 	std::cin >> strPatron;
-	// Comprobación del patrón
+	// Comprobaciï¿½n del patrï¿½n
 	int longitudPatron = strPatron.length();
 	if (longitudPatron<1) {
 		std::cout << "Patron no valido" << std::endl;
@@ -25,7 +24,7 @@ int main()
 				return 0;
 		}
 	}
-	// Copia del patrón en una pila
+	// Copia del patrï¿½n en una pila
 	std::queue<char> colaPatron;
 	for (int i=0; i<longitudPatron; i++) 
 		colaPatron.push(strPatron[i]);
@@ -40,7 +39,7 @@ int main()
 	std::queue<char> colaFichero;
 	int numCaracter = 0;
 	int numCoincidencias = 0;
-	// Carga del fichero a una cola y comparación con el patrón
+	// Carga del fichero a una cola y comparaciï¿½n con el patrï¿½n
 	while (fich_in >> baseNucleotida) {
 		numCaracter++;
 		colaFichero.push(baseNucleotida);

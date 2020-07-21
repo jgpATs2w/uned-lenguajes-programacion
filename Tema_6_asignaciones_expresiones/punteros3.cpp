@@ -1,4 +1,4 @@
-// Fichero: punteros3.cpp
+// Fichero: os3.cpp
 #include <iostream>
 
 int main()

@@ -1,5 +1,3 @@
-//Fichero: areaTriangulo.cpp
-
 #include <iostream>
 #include <cmath>
 

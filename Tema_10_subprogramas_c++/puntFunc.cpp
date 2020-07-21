@@ -14,16 +14,16 @@ int main() {
 	std::string palabra;
 	std::cout << "Introduzca una palabra: ";
 	std::cin >> palabra;
-	// Invocación a la función
+	// Invocaciï¿½n a la funciï¿½n
 	std::string palabraInv1 = invierte(palabra);
 	std::cout << "Al reves (1): " << palabraInv1 << std::endl;
-	// Declaración de un puntero llamado pf cuyo tipo base
-	// es una función que tiene un argumento std::string y
+	// Declaraciï¿½n de un o llamado pf cuyo tipo base
+	// es una funciï¿½n que tiene un argumento std::string y
 	// un tipo de retorno std::string
 	std::string (*pf)(std::string);
-	// Se hace apuntar pf a la función invierte 
+	// Se hace apuntar pf a la funciï¿½n invierte 
 	pf = invierte;
-	// Invocación a la función invierte mediante el puntero
+	// Invocaciï¿½n a la funciï¿½n invierte mediante el o
 	std::string palabraInv2 = (*pf)(palabra);
 	std::cout << "Al reves (2): " << palabraInv2 << std::endl;
 	return 0;
